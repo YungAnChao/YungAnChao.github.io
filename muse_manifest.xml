@@ -1,0 +1,259 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="YungAnChao.com" resolutions="1x,2x" timestamp="1578932065925">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="contacts.css" crc="121578172" ref="contacts"/>
+    <file name="films.css" crc="4022431531" ref="films"/>
+    <file name="index.css" crc="4082966692" ref="index"/>
+    <file name="photographs.css" crc="3815406242" ref="photographs"/>
+    <file name="graphic-design.css" crc="3760812739" ref="graphic-design"/>
+    <file name="3d-works.css" crc="388994545" ref="3d-works"/>
+  </folder>
+  <folder name="assets">
+    <file name="末路狂花.mp4" crc="3827245572" seo="true" mt="1547491769000"/>
+    <file name="1.mp4" crc="4136399162" seo="true" mt="1568940614000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
+    <file name="museutils.js" crc="3803043152" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
+    <file name="whatinput.js" crc="86476730" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
+    <file name="require.js" crc="4157109226" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
+  </folder>
+  <folder name="images">
+    <file name="u142-4.png" crc="4236114477" ref="index"/>
+    <file name="u142-4_2x.png" crc="188385590" ref="index"/>
+    <file name="facebook logo17x17.jpg" crc="7893350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook logo17x17_2x.jpg" crc="3778966110" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig logo17x17.jpg" crc="4084525881" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig logo17x17_2x.jpg" crc="4086750374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dscf5692592-crop-u589.jpg" crc="3996121056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dscf5692592-crop-u589_2x.jpg" crc="4068956625" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u348-4.png" crc="4236114477" ref="photographs"/>
+    <file name="u348-4_2x.png" crc="188385590" ref="photographs"/>
+    <file name="dscf5773618.jpg" crc="3899971" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="dscf5773618_2x.jpg" crc="3996914593" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="dscf5692592674x450.jpg" crc="378466050" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="dscf5692592674x450_2x.jpg" crc="305749283" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="2-1.jpg" crc="4021088775" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="2-1_2x.jpg" crc="4075492767" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="3-1.jpg" crc="437722265" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="3-1_2x.jpg" crc="3916717391" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="dscf4097276.jpg" crc="3867250369" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="dscf4097276_2x.jpg" crc="3969048678" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="dscf3964197.jpg" crc="108802407" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="dscf3964197_2x.jpg" crc="4232641086" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="dscf3975206.jpg" crc="4135767551" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="dscf3975206_2x.jpg" crc="332419936" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="dscf4034244.jpg" crc="4232011815" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="dscf4034244_2x.jpg" crc="3771629860" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4180386226" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="1_2x.jpg" crc="200526928" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="4.jpg" crc="498536640" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="4_2x.jpg" crc="4136774695" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="9.jpg" crc="3839819867" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="9_2x.jpg" crc="3889295715" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="12.jpg" crc="4001338279" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="1_2x2.jpg" crc="4183483093" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="_mg_365723.jpg" crc="278307110" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="_mg_365723_2x.jpg" crc="385128333" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="_mg_397458.jpg" crc="412352583" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="_mg_397458_2x.jpg" crc="3796828111" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="_mg_388171.jpg" crc="3857527052" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="_mg_388171_2x.jpg" crc="272546046" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="dscf16540619.jpg" crc="4293399724" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="dscf16540619_2x.jpg" crc="497391933" seo="true" ref="photographs">
+      <caption webpage="photographs" alt=""/>
+    </file>
+    <file name="u603-4.png" crc="4236114477" ref="films"/>
+    <file name="u603-4_2x.png" crc="188385590" ref="films"/>
+    <file name="u640-4.png" crc="3972902031" ref="films"/>
+    <file name="u640-4_2x.png" crc="4273771861" ref="films"/>
+    <file name="u643-46.png" crc="3858792161" ref="films"/>
+    <file name="u643-46_2x.png" crc="3806017819" ref="films"/>
+    <file name="u646-4.png" crc="70450952" ref="films"/>
+    <file name="u646-4_2x.png" crc="428981569" ref="films"/>
+    <file name="u649-33.png" crc="4104592036" ref="films"/>
+    <file name="u649-33_2x.png" crc="105410373" ref="films"/>
+    <file name="u656-4.png" crc="317472304" ref="films"/>
+    <file name="u656-4_2x.png" crc="166777174" ref="films"/>
+    <file name="u659-27.png" crc="3958247964" ref="films"/>
+    <file name="u659-27_2x.png" crc="3800797992" ref="films"/>
+    <file name="u673-4.png" crc="4236114477" ref="graphic-design"/>
+    <file name="u673-4_2x.png" crc="188385590" ref="graphic-design"/>
+    <file name="人體舞動三rgb-04.jpg" crc="4112744257" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="人體舞動三rgb-04_2x.jpg" crc="3909410649" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="數位ta海報-總-08.jpg" crc="4028458006" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="數位ta海報-總-08_2x.jpg" crc="4290076025" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="數位ta海報-基礎剪輯-02.jpg" crc="4117611374" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="數位ta海報-基礎剪輯-02_2x.jpg" crc="249525813" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="數位ta海報-進階剪輯-02.jpg" crc="520893802" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="數位ta海報-進階剪輯-02_2x.jpg" crc="266243610" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="數位ta海報-進階攝影-02.jpg" crc="126501684" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="數位ta海報-進階攝影-02_2x.jpg" crc="309942016" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="數位ta海報-cc-02.jpg" crc="4185846505" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="數位ta海報-cc-02_2x.jpg" crc="366261639" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="moocs mg8 成就達成_工作區域 1.jpg" crc="1163399" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="moocs mg8 成就達成_工作區域 1_2x.jpg" crc="3776822662" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="moocs mg1 遊戲開始_工作區域 1.jpg" crc="3925631222" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="moocs mg1 遊戲開始_工作區域 1_2x.jpg" crc="3771412492" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="2018作品集素圖-07.jpg" crc="103190228" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="2018作品集素圖-07_2x.jpg" crc="3861756046" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="u703-4.png" crc="4236114477" ref="3d-works"/>
+    <file name="u703-4_2x.png" crc="188385590" ref="3d-works"/>
+    <file name="0_arnold material_1.jpg" crc="494037648" seo="true" ref="3d-works">
+      <caption webpage="3d-works" alt=""/>
+    </file>
+    <file name="rock4.jpg" crc="34576369" seo="true" ref="3d-works">
+      <caption webpage="3d-works" alt=""/>
+    </file>
+    <file name="1217_south_strange_3_850.jpg" crc="215211581" seo="true" ref="3d-works">
+      <caption webpage="3d-works" alt=""/>
+    </file>
+    <file name="1219_driver2_cave702.jpg" crc="4087430620" seo="true" ref="3d-works">
+      <caption webpage="3d-works" alt=""/>
+    </file>
+    <file name="1226_lake_closetolake_norock_2_006.jpg" crc="3839621944" seo="true" ref="3d-works">
+      <caption webpage="3d-works" alt=""/>
+    </file>
+    <file name="1226_lake_princkle_2_065.jpg" crc="291435855" seo="true" ref="3d-works">
+      <caption webpage="3d-works" alt=""/>
+    </file>
+    <file name="1230_1_north003.jpg" crc="4204876139" seo="true" ref="3d-works">
+      <caption webpage="3d-works" alt=""/>
+    </file>
+    <file name="1230_2_north_fogland36.jpg" crc="383577654" seo="true" ref="3d-works">
+      <caption webpage="3d-works" alt=""/>
+    </file>
+    <file name="u733-4.png" crc="4236114477" ref="contacts"/>
+    <file name="u733-4_2x.png" crc="188385590" ref="contacts"/>
+    <file name="facebook logo.jpg" crc="3912924792" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="facebook logo_2x.jpg" crc="4151471573" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="ig logo.jpg" crc="4177364442" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="ig logo_2x.jpg" crc="328436723" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3788929558" seo="true" mt="1578931573433" redirect="true"/>
+  <file name="photographs.html" crc="353327213" seo="true" mt="1578931586814" redirect="true"/>
+  <file name="films.html" crc="4046004564" seo="true" mt="1578931594475" redirect="true"/>
+  <file name="graphic-design.html" crc="4031387230" seo="true" mt="1578931599470" redirect="true"/>
+  <file name="3d-works.html" crc="4180269878" seo="true" mt="1578931607559" redirect="true"/>
+  <file name="contacts.html" crc="4142312371" seo="true" mt="1578931645681" redirect="true"/>
+</manifest>
