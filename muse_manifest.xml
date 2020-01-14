@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="YungAnChao4.com" resolutions="1x,2x" timestamp="1579009311189">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="YungAnChao5.com" resolutions="1x,2x" timestamp="1579010261372">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-__.css" crc="3916838958" ref="3d-works:photographs:graphic-design:index:films:contacts"/>
     <file name="nomq_preview_master_a-__.css" crc="3884755894" ref="3d-works:photographs:graphic-design:index:films:contacts"/>
-    <file name="3d-works.css" crc="378264257" ref="3d-works"/>
+    <file name="3d-works.css" crc="462153558" ref="3d-works"/>
     <file name="nomq_3d-works.css" crc="307000263" ref="3d-works"/>
-    <file name="photographs.css" crc="4031402089" ref="photographs"/>
+    <file name="photographs.css" crc="510841198" ref="photographs"/>
     <file name="nomq_photographs.css" crc="4020030853" ref="photographs"/>
-    <file name="graphic-design.css" crc="404102341" ref="graphic-design"/>
+    <file name="graphic-design.css" crc="374512300" ref="graphic-design"/>
     <file name="nomq_graphic-design.css" crc="285072180" ref="graphic-design"/>
-    <file name="index.css" crc="4104518051" ref="index"/>
-    <file name="nomq_index.css" crc="160287831" ref="index"/>
-    <file name="films.css" crc="3823989343" ref="films"/>
+    <file name="index.css" crc="97022497" ref="index"/>
+    <file name="nomq_index.css" crc="4230688429" ref="index"/>
+    <file name="films.css" crc="3979735417" ref="films"/>
     <file name="nomq_films.css" crc="3981041122" ref="films"/>
-    <file name="contacts.css" crc="421060006" ref="contacts"/>
+    <file name="contacts.css" crc="3796488573" ref="contacts"/>
     <file name="nomq_contacts.css" crc="58686581" ref="contacts"/>
   </folder>
   <folder name="scripts">
@@ -1054,10 +1054,10 @@
       <caption webpage="contacts" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4125699609" seo="true" mt="1579009167689" redirect="true"/>
-  <file name="photographs.html" crc="3969315416" seo="true" mt="1579009164103" redirect="true"/>
-  <file name="films.html" crc="119803875" seo="true" mt="1579009164103" redirect="true"/>
-  <file name="graphic-design.html" crc="326075489" seo="true" mt="1579009164103" redirect="true"/>
-  <file name="3d-works.html" crc="4155047419" seo="true" mt="1579009164103" redirect="true"/>
-  <file name="contacts.html" crc="504010943" seo="true" mt="1579009164103" redirect="true"/>
+  <file name="index.html" crc="4022966508" seo="true" mt="1579010130653" redirect="true"/>
+  <file name="photographs.html" crc="86478312" seo="true" mt="1579010130653" redirect="true"/>
+  <file name="films.html" crc="65567707" seo="true" mt="1579010130653" redirect="true"/>
+  <file name="graphic-design.html" crc="4065280366" seo="true" mt="1579010130653" redirect="true"/>
+  <file name="3d-works.html" crc="428124344" seo="true" mt="1579010130653" redirect="true"/>
+  <file name="contacts.html" crc="100258427" seo="true" mt="1579010130653" redirect="true"/>
 </manifest>
