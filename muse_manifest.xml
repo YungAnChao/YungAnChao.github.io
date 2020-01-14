@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="YungAnChao3.com" resolutions="1x,2x" timestamp="1579008112178">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="YungAnChao4.com" resolutions="1x,2x" timestamp="1579009311189">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-__.css" crc="315300132" ref="3d-works:photographs:graphic-design:index:films:contacts"/>
-    <file name="nomq_preview_master_a-__.css" crc="4062882038" ref="3d-works:photographs:graphic-design:index:films:contacts"/>
-    <file name="3d-works.css" crc="217496375" ref="3d-works"/>
-    <file name="nomq_3d-works.css" crc="4274015984" ref="3d-works"/>
-    <file name="photographs.css" crc="3954735799" ref="photographs"/>
+    <file name="master_a-__.css" crc="3916838958" ref="3d-works:photographs:graphic-design:index:films:contacts"/>
+    <file name="nomq_preview_master_a-__.css" crc="3884755894" ref="3d-works:photographs:graphic-design:index:films:contacts"/>
+    <file name="3d-works.css" crc="378264257" ref="3d-works"/>
+    <file name="nomq_3d-works.css" crc="307000263" ref="3d-works"/>
+    <file name="photographs.css" crc="4031402089" ref="photographs"/>
     <file name="nomq_photographs.css" crc="4020030853" ref="photographs"/>
-    <file name="graphic-design.css" crc="3964253007" ref="graphic-design"/>
-    <file name="nomq_graphic-design.css" crc="3827488237" ref="graphic-design"/>
-    <file name="index.css" crc="4169844926" ref="index"/>
-    <file name="nomq_index.css" crc="522602847" ref="index"/>
-    <file name="films.css" crc="42017462" ref="films"/>
+    <file name="graphic-design.css" crc="404102341" ref="graphic-design"/>
+    <file name="nomq_graphic-design.css" crc="285072180" ref="graphic-design"/>
+    <file name="index.css" crc="4104518051" ref="index"/>
+    <file name="nomq_index.css" crc="160287831" ref="index"/>
+    <file name="films.css" crc="3823989343" ref="films"/>
     <file name="nomq_films.css" crc="3981041122" ref="films"/>
-    <file name="contacts.css" crc="482851074" ref="contacts"/>
-    <file name="nomq_contacts.css" crc="3971089668" ref="contacts"/>
+    <file name="contacts.css" crc="421060006" ref="contacts"/>
+    <file name="nomq_contacts.css" crc="58686581" ref="contacts"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
@@ -22,34 +22,26 @@
     <file name="whatinput.js" crc="86476730" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
     <file name="museconfig.js" crc="4153641093" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:photographs"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
     <file name="require.js" crc="4157109226" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
   </folder>
   <folder name="images">
-    <file name="facebook logo17x17.jpg" crc="4109458183" seo="true" ref="index:photographs">
+    <file name="facebook logo17x17.jpg" crc="4109458183" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="photographs" alt=""/>
-      <caption webpage="photographs" alt=""/>
     </file>
-    <file name="facebook logo17x17_2x.jpg" crc="177318579" seo="true" ref="index:photographs">
+    <file name="facebook logo17x17_2x.jpg" crc="177318579" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="photographs" alt=""/>
-      <caption webpage="photographs" alt=""/>
     </file>
-    <file name="ig logo17x17.jpg" crc="51849955" seo="true" ref="index:photographs">
+    <file name="ig logo17x17.jpg" crc="51849955" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="photographs" alt=""/>
-      <caption webpage="photographs" alt=""/>
     </file>
-    <file name="ig logo17x17_2x.jpg" crc="3842297039" seo="true" ref="index:photographs">
+    <file name="ig logo17x17_2x.jpg" crc="3842297039" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="photographs" alt=""/>
-      <caption webpage="photographs" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
     <file name="u2059_states.png" crc="320616484" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
@@ -68,29 +60,21 @@
     <file name="dscf5692592-crop-u589_2x2.jpg" crc="4045699711" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="facebook logo14x14.jpg" crc="3764455767" seo="true" ref="index:photographs">
+    <file name="facebook logo14x14.jpg" crc="3764455767" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="photographs" alt=""/>
-      <caption webpage="photographs" alt=""/>
     </file>
-    <file name="facebook logo14x14_2x.jpg" crc="4009983596" seo="true" ref="index:photographs">
+    <file name="facebook logo14x14_2x.jpg" crc="4009983596" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="photographs" alt=""/>
-      <caption webpage="photographs" alt=""/>
     </file>
-    <file name="ig logo14x14.jpg" crc="3881235812" seo="true" ref="index:photographs">
+    <file name="ig logo14x14.jpg" crc="3881235812" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="photographs" alt=""/>
-      <caption webpage="photographs" alt=""/>
     </file>
-    <file name="ig logo14x14_2x.jpg" crc="184664661" seo="true" ref="index:photographs">
+    <file name="ig logo14x14_2x.jpg" crc="184664661" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="photographs" alt=""/>
-      <caption webpage="photographs" alt=""/>
     </file>
     <file name="u1099_states.png" crc="409618512" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
     <file name="u1099_states_2x.png" crc="4018611769" ref="index:photographs:films:graphic-design:3d-works:contacts"/>
@@ -102,29 +86,23 @@
     <file name="dscf5692592-crop-u589_2x3.jpg" crc="4223273064" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="facebook logo18x18.jpg" crc="534737945" seo="true" ref="index:photographs">
+    <file name="facebook logo18x18.jpg" crc="534737945" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="photographs" alt=""/>
     </file>
-    <file name="facebook logo18x18_2x.jpg" crc="279606120" seo="true" ref="index:photographs">
+    <file name="facebook logo18x18_2x.jpg" crc="279606120" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="photographs" alt=""/>
     </file>
-    <file name="ig logo18x18.jpg" crc="3824610883" seo="true" ref="index:photographs">
+    <file name="ig logo18x18.jpg" crc="3824610883" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="photographs" alt=""/>
     </file>
-    <file name="ig logo18x18_2x.jpg" crc="4264050173" seo="true" ref="index:photographs">
+    <file name="ig logo18x18_2x.jpg" crc="4264050173" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="photographs" alt=""/>
     </file>
-    <file name="button3line.jpg" crc="3942137439" ref="index:photographs">
+    <file name="button3line.jpg" crc="3942137439" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="photographs" alt=""/>
     </file>
-    <file name="button3line_2x.jpg" crc="419957817" ref="index:photographs">
+    <file name="button3line_2x.jpg" crc="419957817" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="photographs" alt=""/>
     </file>
     <file name="dscf5692592-crop-u5894.jpg" crc="4294137926" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1076,10 +1054,10 @@
       <caption webpage="contacts" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="448103222" seo="true" mt="1579007452543" redirect="true"/>
-  <file name="photographs.html" crc="4202741663" seo="true" mt="1579008050424" redirect="true"/>
-  <file name="films.html" crc="3782552733" seo="true" mt="1579007749809" redirect="true"/>
-  <file name="graphic-design.html" crc="4282065979" seo="true" mt="1579007800701" redirect="true"/>
-  <file name="3d-works.html" crc="51600466" seo="true" mt="1579007828599" redirect="true"/>
-  <file name="contacts.html" crc="383367075" seo="true" mt="1579007891890" redirect="true"/>
+  <file name="index.html" crc="4125699609" seo="true" mt="1579009167689" redirect="true"/>
+  <file name="photographs.html" crc="3969315416" seo="true" mt="1579009164103" redirect="true"/>
+  <file name="films.html" crc="119803875" seo="true" mt="1579009164103" redirect="true"/>
+  <file name="graphic-design.html" crc="326075489" seo="true" mt="1579009164103" redirect="true"/>
+  <file name="3d-works.html" crc="4155047419" seo="true" mt="1579009164103" redirect="true"/>
+  <file name="contacts.html" crc="504010943" seo="true" mt="1579009164103" redirect="true"/>
 </manifest>
